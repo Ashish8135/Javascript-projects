@@ -1,0 +1,31 @@
+body{
+	background-color: #00b894;
+}
+
+#banner{
+	width: 80%;
+	font-size: 70px;
+	text-align: center;
+	padding-top: 200px;
+	background-color:#192a56; 
+	padding: 0.5em 0em;
+	margin:10% auto 0%;
+	font-family: arial;
+	color:#fbc531;
+	text-transform: uppercase;
+}
+span{
+	margin-left:50px; 
+}
+#clock{
+	width: 80%;
+	font-size: 100px;
+	text-align: center;
+	padding-top: 200px;
+	background-color:#192a56; 
+	padding: 0.5em 0em;
+	margin:0px auto;
+	font-family: arial;
+	color:#fbc531;
+	text-transform: uppercase;
+}
