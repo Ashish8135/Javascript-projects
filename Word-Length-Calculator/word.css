@@ -1,0 +1,29 @@
+body{
+	background-color: #182C61;
+	color: white;
+	text-align: center;
+}
+#len{
+	margin:100px;
+	text-align: center;
+	font-size: 50px;
+}
+
+#word{
+	width: 50%;
+	height: 50px;
+	border-radius: 20px;
+	font-size: 20px;
+	text-align: center;
+	border-style: none;	
+}
+#countlength{
+	margin:100px;
+	width:30%;
+	height:40px;
+	font-size: 20px;
+	border-radius: 10px;
+	background-color: #FD7272;
+	font-weight: bold;
+	color: yellow;  
+}
