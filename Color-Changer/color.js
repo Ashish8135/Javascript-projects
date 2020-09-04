@@ -8,5 +8,10 @@ $("#btn").click(function(){
 		$("div").css("background-color",color[i]);
 		i=(i==color.lenght-1) ? 0 :(i+1);	
 });
+document.querySelector("button").addEventListener("click",function(){
+	i= i <= color.lenght-1 ? 0 : i+1;
+	document.querySelector("body").style.background=color[i];
+});
+
 
 
